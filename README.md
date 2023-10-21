@@ -1,6 +1,7 @@
 ### Eai, eu sou o Guilherme Galante 🤙
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_galante17/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_galante17/) [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://website.com)](https://guilhermegalante.github.io/portfolio/)
+ 
 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGalante&show_icons=true&theme=onedark)
