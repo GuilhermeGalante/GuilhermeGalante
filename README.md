@@ -12,7 +12,7 @@
 </div><br/>
 
 Apaixonado por tecnologia desde criança, mas só depois de mais velho me inseri no mundo dos devs.<br/><br/>
- Atualmente aprimorando minhas habilidades e criando projetos pessoais enquanto curso Análise e Desenvolvimento de sistemas.<br/>
+ Atualmente aprimorando minhas habilidades e criando projetos pessoais enquanto curso Engenharia de Software.<br/>
 
  Email de contato: guilherme_galante17@hotmail.com
 
