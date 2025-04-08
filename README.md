@@ -8,19 +8,21 @@
 ### Tecnologias que eu utilizo no meu dia a dia  
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>  
 
 <br/>
 
-Apaixonado por tecnologia desde criança, mas só depois de mais velho me inseri no mundo dos devs.  
-Atualmente aprimorando minhas habilidades e criando projetos pessoais enquanto curso Engenharia de Software.  
+Apaixonado por computadores desde a infância, sempre tive curiosidade sobre como a tecnologia transforma o mundo. Com o tempo, essa curiosidade se tornou uma verdadeira paixão pelo desenvolvimento de software.
 
+Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, com o objetivo de me tornar um desenvolvedor full-stack. Meu próximo passo é aprofundar meus conhecimentos em frameworks de front-end, e repetir o ciclo com back-end e mobile, explorando tecnologias modernas para criar aplicações eficientes.
+
+Além do desenvolvimento web, também tenho um grande interesse por inteligência artificial, fascinando-me pelo potencial que essa área tem de revolucionar diferentes setores. Sou extremamente dedicado aos meus estudos e desafios, sempre buscando evolução constante.
+
+Atualmente, estou cursando Engenharia de Software na INFNET, onde venho consolidando minha base teórica e prática para construir soluções da melhor maneira possível. 
 📩 **Email de contato:** guilherme_galante17@hotmail.com 
 
-
- Email de contato: guilherme_galante17@hotmail.com
 
