@@ -23,6 +23,7 @@ Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, com 
 Além do desenvolvimento web, também tenho um grande interesse por inteligência artificial, fascinando-me pelo potencial que essa área tem de revolucionar diferentes setores. Sou extremamente dedicado aos meus estudos e desafios, sempre buscando evolução constante.
 
 Atualmente, estou cursando Engenharia de Software na INFNET, onde venho consolidando minha base teórica e prática para construir soluções da melhor maneira possível. 
+<br/>
 📩 **Email de contato:** guilherme_galante17@hotmail.com 
 
 
