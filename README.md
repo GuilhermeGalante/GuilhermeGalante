@@ -16,13 +16,7 @@
 
 <br/>
 
-Apaixonado por computadores desde a infância, sempre tive curiosidade sobre como a tecnologia transforma o mundo. Com o tempo, essa curiosidade se tornou uma verdadeira paixão pelo desenvolvimento de software.
-
-Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, com o objetivo de me tornar um desenvolvedor full-stack. Meu próximo passo é aprofundar meus conhecimentos em frameworks de front-end, e repetir o ciclo com back-end e mobile, explorando tecnologias modernas para criar aplicações eficientes.
-
-Além do desenvolvimento web, também tenho um grande interesse por inteligência artificial, fascinando-me pelo potencial que essa área tem de revolucionar diferentes setores. Sou extremamente dedicado aos meus estudos e desafios, sempre buscando evolução constante.
-
-Atualmente, estou cursando Engenharia de Software na INFNET, onde venho consolidando minha base teórica e prática para construir soluções da melhor maneira possível. 
+Estudante de Engenharia de Software com foco em desenvolvimento Full Stack. Atualmente atuo como freelancer, onde aplico meus conhecimentos em HTML, CSS e JavaScript, e atualmente estudando e  evoluindo com React.js. Aberto a oportunidades de estágio, trainee e projetos que me desafiem a crescer como desenvolvedor e como profissional.
 <br/>
 📩 **Email de contato:** guilherme_galante17@hotmail.com 
 
