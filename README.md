@@ -8,6 +8,7 @@
 ### Tecnologias que eu utilizo no meu dia a dia  
 
 <div style="display: inline_block"><br/>
+    <img align="center" alt="React" src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)"/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,8 +16,10 @@
 </div>  
 
 <br/>
-
-Estudante de Engenharia de Software com foco em desenvolvimento Full Stack. Atualmente atuo como freelancer, onde aplico meus conhecimentos em HTML, CSS e JavaScript, e atualmente estudando e  evoluindo com React.js. Aberto a oportunidades de estágio, trainee e projetos que me desafiem a crescer como desenvolvedor e como profissional.
+Estudante de Engenharia de Software com foco em front-end. Tenho experiência 
+com HTML, CSS, JavaScript e Next.js, aplicados em projetos reais. Conhecimento em 
+Git/GitHub, responsividade, acessibilidade e tradução de protótipos em interfaces funcionais. 
+Busco aprender continuamente e contribuir em equipes colaborativas.
 <br/>
 📩 **Email de contato:** guilherme_galante17@hotmail.com 
 
