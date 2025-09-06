@@ -1,6 +1,6 @@
 ### Eai, eu sou o Guilherme Galante 🤙
 
-[![Meu portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-pessoal-infnet.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_galante17/)
+[![Meu portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guilhermegalante.dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_galante17/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-galante-368365299/)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGalante&show_icons=true&theme=onedark)
@@ -18,10 +18,13 @@
 </div>  
 
 <br/>
-Estudante de Engenharia de Software com foco em front-end. Tenho experiência 
-com HTML, CSS, JavaScript e Next.js, aplicados em projetos reais. Conhecimento em 
-Git/GitHub, responsividade, acessibilidade e tradução de protótipos em interfaces funcionais. 
-Busco aprender continuamente e contribuir em equipes colaborativas.
+Minha jornada profissional começou com plantas e estruturas, desenhando projetos como Técnico em Edificações. Ali, aprendi que uma base sólida não é negociável. Hoje, aplico essa mesma filosofia no universo digital, construindo interfaces web onde a arquitetura da informação é tão robusta quanto a fundação de um prédio.
+
+Como Desenvolvedor Front-end, meu foco é traduzir lógica e criatividade em experiências digitais intuitivas e de alta performance com Next.js, React e Tailwind. Mas para mim, o código é apenas o começo. Uma interface só cumpre seu papel se for encontrada, se for segura e se resolver um problema real para o usuário.
+
+É aqui que meu diferencial se destaca: integro uma visão estratégica de SEO e uma mentalidade preventiva de Cibersegurança em cada linha de código. Não se trata apenas de entregar um site, mas de garantir que ele seja uma fortaleza digital otimizada para conectar negócios a pessoas, de forma escalável e segura.
+
+Atualmente cursando Engenharia de Software e com a meta de me tornar um desenvolvedor Full-stack, estou sempre buscando a próxima camada de conhecimento. Se você precisa de um profissional que pensa além do layout e constrói soluções digitais que geram valor e confiança, vamos conversar.
 <br/>
 📩 **Email de contato:** guilherme_galante17@hotmail.com 
 
