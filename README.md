@@ -1,31 +1,91 @@
-### Eai, eu sou o Guilherme Galante 🤙
+# Olá, eu sou Guilherme Galante 👋
 
-[![Meu portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guilhermegalante.dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_galante17/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-galante-368365299/)
+**Desenvolvedor de Software & QA | Full Stack em evolução**
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGalante&show_icons=true&theme=onedark)
+Criando soluções digitais com foco em qualidade, performance e experiência do usuário — do código ao teste.
 
-### Tecnologias que eu utilizo no meu dia a dia  
+---
 
-<div style="display: inline_block"><br/>
-    <img align= "center" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align= "center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>  
+## 🧑‍💻 Sobre Mim
 
-<br/>
-Minha jornada profissional começou com plantas e estruturas, desenhando projetos como Técnico em Edificações. Ali, aprendi que uma base sólida não é negociável. Hoje, aplico essa mesma filosofia no universo digital, construindo interfaces web onde a arquitetura da informação é tão robusta quanto a fundação de um prédio.
+Sou um profissional da área de tecnologia com experiência em **desenvolvimento web** e **qualidade de software (QA)**.  
+Atuo tanto na construção de aplicações quanto na garantia da qualidade, aplicando **testes manuais e automatizados** para entregar sistemas confiáveis e bem estruturados.
 
-Como Desenvolvedor Front-end, meu foco é traduzir lógica e criatividade em experiências digitais intuitivas e de alta performance com Next.js, React e Tailwind. Mas para mim, o código é apenas o começo. Uma interface só cumpre seu papel se for encontrada, se for segura e se resolver um problema real para o usuário.
+Acredito que **software de qualidade nasce quando desenvolvimento e testes caminham juntos**.
 
-É aqui que meu diferencial se destaca: integro uma visão estratégica de SEO e uma mentalidade preventiva de Cibersegurança em cada linha de código. Não se trata apenas de entregar um site, mas de garantir que ele seja uma fortaleza digital otimizada para conectar negócios a pessoas, de forma escalável e segura.
+- 🔹 Desenvolvimento Frontend e Backend  
+- 🔹 Testes automatizados e manuais  
+- 🔹 APIs, validações e documentação  
+- 🔹 Foco em qualidade, organização e boas práticas  
 
-Atualmente cursando Engenharia de Software e com a meta de me tornar um desenvolvedor Full-stack, estou sempre buscando a próxima camada de conhecimento. Se você precisa de um profissional que pensa além do layout e constrói soluções digitais que geram valor e confiança, vamos conversar.
-<br/>
-📩 **Email de contato:** guilherme_galante17@hotmail.com 
+---
 
+## 🛠️ Conjunto de Tecnologias
 
+### 💻 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Frameworks e Bibliotecas
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Testes & Qualidade de Software
+<p>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser_Library-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testes_Manuais-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000"/>
+</p>
+
+✔️ Testes automatizados (UI e API)  
+✔️ Testes manuais funcionais  
+✔️ Validação de fluxos, regras de negócio e integrações  
+✔️ Documentação e análise de APIs  
+
+---
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 🔧 Ferramentas e Versionamento
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Vamos conversar?
+
+<p>
+  <a href="https://www.linkedin.com/in/guilherme-galante-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GuilhermeGalante" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:guilherme.galante17112003@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Sempre aberto a aprender, evoluir e colaborar em projetos que gerem impacto real.
