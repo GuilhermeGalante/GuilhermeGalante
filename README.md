@@ -1,74 +1,128 @@
-# Olá, eu sou Guilherme Galante 👋
+<div align="center">
 
-**Cybersecurity Enthusiast | Offensive Security | QA Engineer**
+# 👋 Hi, I'm Guilherme Galante
 
-Garantindo a resiliência de aplicações através de testes dinâmicos (DAST), automação e Cultura DevSecOps — mapeando vulnerabilidades antes que elas cheguem à produção.
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=QA+Engineer+%E2%86%92+Application+Security;Offensive+Security+%26+Web+Pentesting;Breaking+things+to+understand+how+to+protect+them;Building+secure+%26+resilient+software"
+alt="Typing SVG"
+/>
 
----
+### `QA Engineer · Application Security · Offensive Security`
 
-## 🧑‍💻 Sobre Mim
+Software Engineering student focused on **building, testing and breaking software** to make it more secure.
 
-Sou um estudante de Engenharia de Software e profissional de tecnologia em transição focada para a área de **Cibersegurança (Segurança Ofensiva e AppSec)**. 
-
-Minha jornada começou com plantas e cálculos como Técnico em Edificações, onde aprendi que uma base frágil compromete todo o projeto. Hoje, aplico essa mesma engenharia de resiliência no universo digital. Atuando como **QA Engineer**, utilizo minha base sólida em desenvolvimento para não apenas testar a qualidade, mas para procurar ativamente por brechas de segurança. 
-
-Acredito que construir soluções escaláveis exige alguém que pense além do "caminho feliz" e entenda a lógica por trás de um ataque.
-
-- 🛡️ **Foco atual:** Testes de Invasão, DAST, Cyber Threat Management e exploração de vulnerabilidades.
-- ⚙️ **Cultura:** Shift-Left Security e integração de testes de segurança em esteiras ágeis.
-- 💻 **Desenvolvimento:** Construção de ferramentas, APIs e projetos full-stack (como o PlanInv em Python).
+</div>
 
 ---
 
-## 🛠️ Conjunto de Tecnologias e Ferramentas
+## 👨‍💻 About me
 
-### 🛡️ Cibersegurança & Qualidade (AppSec)
+I work at the intersection of **Software Quality and Cybersecurity**, combining test automation, application security and an offensive mindset to identify failures before they become real-world problems.
+
+My background in QA taught me to question the **happy path**.
+Cybersecurity taught me to question **everything else**.
+
+* 🛡️ Focused on **Application Security, Web Pentesting & Offensive Security**
+* 🧪 Working with **Test Automation, API Testing & Security Testing**
+* ⚙️ Exploring **Shift-Left Security, DAST & DevSecOps**
+* 🎯 Studying vulnerability exploitation and the **OWASP Top 10**
+* 🛠️ Building automation, security and developer tools
+* 🎓 Software Engineering @ **Instituto Infnet**
+
+---
+
+## ⚡ Stack
+
+### 🛡️ Security
+
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAST_&_Security_Testing-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAST-Security%20Testing-2EA043?style=flat-square"/>
 </p>
 
-✔️ Análises ativas de vulnerabilidades em aplicações web/mobile  
-✔️ Validação rigorosa de segurança em APIs RESTful  
+### 🧪 QA & Automation
 
----
-
-### 💻 Desenvolvimento & Scripting
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
----
-
-### ⚙️ Integração & APIs
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 📫 Vamos conectar e colaborar?
+### 💻 Development
 
 <p>
-  <a href="https://www.linkedin.com/in/guilherme-galante-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/INSERIR_SEU_USUARIO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-  <a href="mailto:guilherme.galante17112003@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
-⭐ Resolvendo laboratórios, quebrando aplicações e aprendendo continuamente para proteger infraestruturas críticas.
+
+## 🎯 Current Focus
+
+```text
+Application Security
+├── Web Security
+├── API Security
+├── DAST
+├── OWASP Top 10
+├── Vulnerability Research
+└── Offensive Security
+
+Quality Engineering
+├── Playwright + TypeScript
+├── Test Automation
+├── API Testing
+└── Security Testing
+```
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GuilhermeGalante/GuilhermeGalante/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GuilhermeGalante/GuilhermeGalante/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/GuilhermeGalante/GuilhermeGalante/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 🤝 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/guilherme-galante-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Galante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:guilherme.galante17112003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `Think like an attacker. Build like an engineer. Test like a QA.`
+
+</div>
